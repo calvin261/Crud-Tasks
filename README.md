@@ -4,7 +4,7 @@ This is a simple application where i used [NextJS](https://nextjs.org/docs) and 
 Copy my repository with
 
 
-** git clone https://github.com/calvin261/Crud-Tasks.git**
+``` git clone https://github.com/calvin261/Crud-Tasks.git ```
 
 ```bash
 npm run install and npm run dev
